@@ -6,6 +6,7 @@
 
 - Gabriel Munteanu Cabrera
 - Andrea Dumpiérrez Medina
+- Carlos Ortega Bernardos
 
 **ULPGC – GCID (Ciencias e Ingeniería de Datos)**
 
